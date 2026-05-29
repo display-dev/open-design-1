@@ -284,11 +284,6 @@
     flex-direction: column;
     gap: 6px;
   }
-  .deploy-form .field-label-note {
-    align-items: flex-start;
-    max-width: none;
-    text-align: left;
-  }
   .deploy-field-grid,
   .cloudflare-domain-grid {
     grid-template-columns: minmax(0, 1fr);
